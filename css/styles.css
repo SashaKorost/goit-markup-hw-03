@@ -58,46 +58,46 @@ body {
             margin: 0 auto;
         }
 
-                .header-class {
-                    display: flex;
+        .header-class {
+         display: flex;
+        }
+        
+        .container-menu {
+            display: flex;
+            border-bottom: 1px solid #e7e9fc;
+        }
+        
+        .nav-conteiner {
+            display: flex;
+            gap: 40px;
+            align-items: center;
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            }
+        
+        .nav-conteiner li {
+            display: inline-block;
+            margin-right: 10px;
+            }
+        
+        .contacts {
+            display: flex;
+            gap: 40px;
+            padding: 24px 0;
+            justify-content: flex-end;
+            margin: auto;
                 }
         
-                .container-menu {
-                    display: flex;
-                    border-bottom: 1px solid #e7e9fc;
-                }
-        
-                .nav-conteiner {
-                    display: flex;
-                    gap: 40px;
-                    align-items: center;
-                    list-style-type: none;
-                    margin: 0;
-                    padding: 0;
-                }
-        
-                .nav-conteiner li {
-                    display: inline-block;
-                    margin-right: 10px;
-                }
-        
-                .contacts {
-                    display: flex;
-                    gap: 40px;
-                    padding: 24px 0;
-                    justify-content: flex-end;
-                    margin: auto;
-                }
-        
-                .menu-contacts {
-                    list-style-type: none;
-                    margin: 0;
-                    padding: 0;
-                    display: flex;
-                    gap: 40px;
-                    justify-content: flex-end;
-                }
-        
+        .menu-contacts {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            gap: 40px;
+            justify-content: flex-end;
+            }
+    
                 .link-contacts-menu {
                     display: flex;
                     justify-content: flex-end;
