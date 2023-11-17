@@ -1,0 +1,162 @@
+.list {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+        font-family: 'Roboto', sans-serif;
+        color: #434455;
+        background-color: white;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        letter-spacing: 0.32px;
+        line-height: 1.5;
+    }
+
+        /*LOGO STYLE*/
+        .logo {
+            color: #4D5AE5;
+            font-family: "Raleway", sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 1.17;
+                letter-spacing: 0.54px;
+                text-transform: uppercase;
+        }
+
+            .text-logo {
+
+                    color:#2E2F42;
+                    font-family: "Raleway", sans-serif;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 1.17;
+                    letter-spacing: 0.54px;
+                    text-transform: uppercase;
+            }
+            .link-nav {
+                font-weight: 500;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                 color: #2e2f42;
+            }
+           .link-nav:hover,
+             :focus {
+         color: #404bbf
+             }
+
+        /*ADDRESS STYLE*/
+            .contacts {
+             font-style: normal;
+             } 
+            .link-contacts{
+                font-size: 16px;
+                line-height: 1.5;
+                 letter-spacing: 0.02em;
+                color: #434455;
+            }
+            .link-contacts:hover,
+                  .link-contacts:focus {
+                    color: #404bbf;
+                 }
+                 
+            .hero {background-color: #2e2f42;
+                }
+                .hero-title {
+                    color: #FFF;
+                    text-align: center;
+                    font-size: 56px;
+                    line-height: 1.07;
+                    letter-spacing: 0.02em;
+                }
+
+            .hero-button {
+                    background-color: #4D5AE5;
+                    color: #FFF;
+                    font-family: Roboto , sans-serif;
+                    font-size: 16px;
+                    font-weight: 500;
+                    line-height: 1.5;
+                    letter-spacing: 0.04em;
+                    cursor: pointer;
+                 }
+                 .hero-button:hover,
+                 .hero-button:focus  {
+                    background-color: #404bbf;
+                 }
+                 .section-title {
+                    color: #2e2f42;
+                    text-align: center;
+                    font-family: 'Roboto';
+                    font-size: 36px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 1.11;
+                    letter-spacing: 0.72px;
+                    text-transform: capitalize;
+                 }
+                 .list-title {
+                    color: #2e2f42;
+                    font-size: 20px;
+                    font-family: 'Roboto';
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 1.2;
+                    letter-spacing: 0.02em;
+
+                 }
+
+                 .list-text {
+                    color: #434455;
+                    font-family: 'Roboto';
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 24px;
+                    letter-spacing: 0.32px;
+
+                 }
+                 .our-team {
+                    background-color: #f4f4fd;
+                
+                 }
+                 .list-our-team {
+                    background-color: #FFF;
+
+                 }
+                 
+                 .happy-end {
+                    background-color: #2e2f42;
+
+                 }
+                .happy-end-logo {
+                    color: #f4f4fd;
+                    font-family: "Roboto", sans-serif;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 1.17;
+                    letter-spacing: 0.54;
+                    text-transform: uppercase;
+                }
+
+                .happy-end-text {
+                        color: #F4F4FD;
+                        /* Body */
+                        font-family: Roboto;
+                        font-size: 16px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 1.5;
+                        /* 150% */
+                        letter-spacing: 0.02em;
+                }
+
+        
+
